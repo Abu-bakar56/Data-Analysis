@@ -12,6 +12,33 @@ Welcome to the Data Analysis Repository! This repository showcases a variety of 
 - **Power BI Reports**: Features Power BI reports and dashboards for in-depth data exploration and business intelligence.
 - **Tableau Dashboards**: Includes Tableau workbooks with interactive visualizations and analysis.
 
+## Project Descriptions
+
+### Excel Projects
+
+- **Bike Sales Data Analysis**: An Excel workbook that provides a detailed analysis of Bike sales data, including trend analysis, pivot tables, and advanced charts.
+  
+ ![Screenshot 2024-08-17 172602](https://github.com/user-attachments/assets/28a22a02-2f50-4d14-a3db-90f46aca815f)
+
+
+
+### Power BI Projects
+
+-**Data Professional Survey**: An insightful survey conducted among data professionals, highlighting trends in roles, skills, tools, and challenges faced in the industry.
+  
+
+![Screenshot 2024-08-17 172748](https://github.com/user-attachments/assets/e7c221d0-7735-4453-b925-fe683acadc2c)
+
+
+
+### Tableau Projects
+
+**Comprehensive Hotel Rent Dashboard**: A Tableau workbook featuring an interactive dashboard that enables users to analyze hotel rental data by location, booking source, and occupancy rate.
+  
+  ![Screenshot 2024-08-17 173209](https://github.com/user-attachments/assets/0daaca10-2d46-412b-9b4c-ec6d98c762b7)
+
+
+
 ## Getting Started
 
 1. **Clone the Repository**:
@@ -34,5 +61,8 @@ Welcome to the Data Analysis Repository! This repository showcases a variety of 
 Feel free to contribute to this repository by submitting pull requests with additional analysis, enhancements, or corrections. For any issues or feature requests, please open an issue in the repository.
 
 
----
+## Contact
 
+For any questions or feedback, please reach out to [abubakarshahzad0321@gmail.com].
+
+---
