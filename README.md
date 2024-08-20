@@ -37,6 +37,12 @@ Welcome to the Data Analysis Repository! This repository showcases a variety of 
   
   ![Screenshot 2024-08-17 173209](https://github.com/user-attachments/assets/0daaca10-2d46-412b-9b4c-ec6d98c762b7)
 
+### Power BI Projects
+
+- **Telecom Churn Data Analysis**: This Power BI project provides a detailed examination of customer churn in the telecom industry. The analysis includes interactive dashboards that showcase key metrics, trends, and insights, helping stakeholders understand the factors driving customer churn.
+
+![DashBoard](https://github.com/user-attachments/assets/2a6ed3ae-115d-45b2-b7f5-88ab86121fef)
+
 
 
 ## Getting Started
